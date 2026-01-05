@@ -1,6 +1,6 @@
 # Simple Booking Interface 📅
 
-> A modern, full-featured booking interface for counselling services
+> A modern, full-featured booking interface for counselling services for you
 
 Built with **Next.js 15**, **TypeScript**, **Shadcn UI**, and **Tailwind CSS**
 
