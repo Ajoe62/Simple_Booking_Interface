@@ -129,6 +129,8 @@ npm start
 
 ## Usage
 
+proper usage in my dashboard
+
 1. **View Available Slots**: The calendar displays all time slots for the week
 2. **Filter Slots**: Toggle "Show Available Only" to filter booked slots
 3. **Select a Slot**: Click on an available slot to select it
